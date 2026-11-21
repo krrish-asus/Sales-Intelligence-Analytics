@@ -19,7 +19,7 @@ FROM vw_sales_detail
 GROUP BY sales_period
 ORDER BY sales_period;
 
--- 3. Top 10 Best-Selling Products
+-- 3. Top 10 Products by Revenue
 SELECT
     product_name,
     category,
@@ -198,15 +198,16 @@ FROM vw_sales_detail
 GROUP BY customer_id, customer_name
 ORDER BY monetary_value DESC;
 
--- 18. Low-Margin Products
+-- 18. Product Profitability Ranking (Lowest Margin First)
 SELECT
     product_id,
     product_name,
     COUNT(*) AS order_lines,
-    ROUND(SUM(net_revenue),2) AS revenue,
+    ROUND(SUM(net_revenue), 2) AS revenue,
     ROUND(
         SUM(gross_profit) /
-        NULLIF(SUM(net_revenue),0) * 100, 2
+        NULLIF(SUM(net_revenue), 0) * 100,
+        2
     ) AS profit_margin
 FROM vw_sales_detail
 GROUP BY product_id, product_name
