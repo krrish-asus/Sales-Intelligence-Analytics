@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Laptop 1,Electronics,78222,39903.45
+2,Laptop 2,Electronics,87160,48132.55
+3,Laptop 3,Electronics,60400,28465.57
+4,Laptop 4,Electronics,74110,49382.5
+5,Laptop 5,Electronics,74366,35232.03
+6,Smartphone 1,Electronics,44666,25491.26
+7,Smartphone 2,Electronics,19779,14137.66
+8,Smartphone 3,Electronics,60839,38110.2
+9,Smartphone 4,Electronics,18726,10466.5
+10,Smartphone 5,Electronics,14348,8614.9
+11,Headphones 1,Electronics,702,472.44
+12,Headphones 2,Electronics,5690,3927.98
+13,Headphones 3,Electronics,4089,2562.74
+14,Headphones 4,Electronics,8174,5775.71
+15,Headphones 5,Electronics,6653,4476.36
+16,Monitor 1,Electronics,14304,9697.62
+17,Monitor 2,Electronics,17878,10748.98
+18,Monitor 3,Electronics,22503,14480.63
+19,Monitor 4,Electronics,18904,12160.88
+20,Monitor 5,Electronics,10736,5113.64
+21,Keyboard 1,Electronics,2316,1043.57
+22,Keyboard 2,Electronics,3409,2297.9
+23,Keyboard 3,Electronics,2891,1728.46
+24,Keyboard 4,Electronics,3562,2278.13
+25,Keyboard 5,Electronics,875,605.64
+26,Mixer Grinder 1,Home,5833,2846.04
+27,Mixer Grinder 2,Home,5152,2467.19
+28,Mixer Grinder 3,Home,3404,1704.17
+29,Mixer Grinder 4,Home,5018,2550.19
+30,Mixer Grinder 5,Home,3361,2162.91
+31,Chair 1,Home,4265,2791.15
+32,Chair 2,Home,3261,2283.32
+33,Chair 3,Home,4518,2975.01
+34,Chair 4,Home,9881,5666.7
+35,Chair 5,Home,10760,5233.14
+36,Desk 1,Home,12172,5491.66
+37,Desk 2,Home,16062,7438.54
+38,Desk 3,Home,11091,7502.84
+39,Desk 4,Home,11912,8333.4
+40,Desk 5,Home,16797,11736.3
+41,Air Purifier 1,Home,10806,6881.16
+42,Air Purifier 2,Home,10690,6918.93
+43,Air Purifier 3,Home,9206,4400.1
+44,Air Purifier 4,Home,15546,9111.66
+45,Air Purifier 5,Home,17604,9911.75
+46,Cookware 1,Home,5788,4035.95
+47,Cookware 2,Home,2833,1484.13
+48,Cookware 3,Home,3608,2569.01
+49,Cookware 4,Home,4509,3008.83
+50,Cookware 5,Home,1931,1084.14
+51,Sneakers 1,Fashion,6934,4779.87
+52,Sneakers 2,Fashion,5396,2863.69
+53,Sneakers 3,Fashion,6946,4153.07
+54,Sneakers 4,Fashion,3771,2421.76
+55,Sneakers 5,Fashion,8863,5313.08
+56,Backpack 1,Fashion,1490,751.32
+57,Backpack 2,Fashion,3156,2028.94
+58,Backpack 3,Fashion,3412,1853.5
+59,Backpack 4,Fashion,3354,1629.44
+60,Backpack 5,Fashion,3509,2194.96
+61,Jacket 1,Fashion,2456,1439.34
+62,Jacket 2,Fashion,6687,4159.03
+63,Jacket 3,Fashion,6819,3281.03
+64,Jacket 4,Fashion,3885,2338.05
+65,Jacket 5,Fashion,5774,3487.91
+66,Watch 1,Fashion,11830,7591.71
+67,Watch 2,Fashion,11946,7787.89
+68,Watch 3,Fashion,9647,5085.9
+69,Watch 4,Fashion,7820,5225.65
+70,Watch 5,Fashion,9464,4530.86
+71,T-Shirt 1,Fashion,1080,528.38
+72,T-Shirt 2,Fashion,1672,777.95
+73,T-Shirt 3,Fashion,846,552.06
+74,T-Shirt 4,Fashion,629,450.08
+75,T-Shirt 5,Fashion,1699,879.49
+76,Printer 1,Office,5516,3510.72
+77,Printer 2,Office,9335,4714.92
+78,Printer 3,Office,13366,6131.29
+79,Printer 4,Office,17837,10206.34
+80,Printer 5,Office,14594,9987.69
+81,Office Chair 1,Office,15615,9395.69
+82,Office Chair 2,Office,7175,4666.99
+83,Office Chair 3,Office,12695,7045.72
+84,Office Chair 4,Office,11870,7855.13
+85,Office Chair 5,Office,14905,7864.81
+86,Notebook Pack 1,Office,148,103.62
+87,Notebook Pack 2,Office,496,278.99
+88,Notebook Pack 3,Office,420,298.53
+89,Notebook Pack 4,Office,155,70.29
+90,Notebook Pack 5,Office,357,180.23
+91,Webcam 1,Office,4529,3052.98
+92,Webcam 2,Office,6091,3899.76
+93,Webcam 3,Office,6205,3408.35
+94,Webcam 4,Office,5720,3418.19
+95,Webcam 5,Office,5842,2938.8
+96,USB Hub 1,Office,1784,1267.28
+97,USB Hub 2,Office,902,515.2
+98,USB Hub 3,Office,1698,798.24
+99,USB Hub 4,Office,655,424.75
+100,USB Hub 5,Office,544,300.2

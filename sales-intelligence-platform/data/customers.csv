@@ -1,0 +1,1001 @@
+customer_id,customer_name,email,segment,signup_date,region_id
+1,Vihaan Sharma,customer1@example.com,Small Business,2022-07-18,4
+2,Ishaan Gupta,customer2@example.com,Small Business,2021-07-29,9
+3,Aditya Das,customer3@example.com,Corporate,2021-03-07,1
+4,Aditya Singh,customer4@example.com,Consumer,2023-11-01,1
+5,Advait Singh,customer5@example.com,Small Business,2024-08-23,9
+6,Ira Singh,customer6@example.com,Corporate,2024-04-21,5
+7,Aarav Shah,customer7@example.com,Consumer,2024-11-30,7
+8,Aadhya Patel,customer8@example.com,Consumer,2022-03-17,6
+9,Vihaan Verma,customer9@example.com,Corporate,2021-07-18,6
+10,Saanvi Das,customer10@example.com,Corporate,2025-07-11,1
+11,Aarohi Jain,customer11@example.com,Consumer,2023-02-15,2
+12,Advait Patel,customer12@example.com,Small Business,2024-06-20,6
+13,Sara Singh,customer13@example.com,Small Business,2021-05-23,1
+14,Ishaan Shah,customer14@example.com,Corporate,2021-06-13,4
+15,Vihaan Reddy,customer15@example.com,Corporate,2023-07-18,6
+16,Reyansh Kumar,customer16@example.com,Corporate,2022-03-06,5
+17,Aditya Das,customer17@example.com,Small Business,2021-12-17,9
+18,Ishaan Gupta,customer18@example.com,Corporate,2023-02-17,5
+19,Advait Singh,customer19@example.com,Small Business,2022-10-27,1
+20,Ishaan Malhotra,customer20@example.com,Consumer,2025-07-07,6
+21,Myra Patel,customer21@example.com,Consumer,2022-03-09,6
+22,Krishna Mehta,customer22@example.com,Corporate,2023-03-22,8
+23,Arjun Patel,customer23@example.com,Consumer,2022-05-21,9
+24,Advait Patel,customer24@example.com,Small Business,2024-04-12,7
+25,Sara Reddy,customer25@example.com,Corporate,2022-03-26,3
+26,Kabir Iyer,customer26@example.com,Consumer,2025-03-28,1
+27,Vihaan Gupta,customer27@example.com,Small Business,2021-11-24,7
+28,Meera Verma,customer28@example.com,Corporate,2023-02-21,8
+29,Kabir Patel,customer29@example.com,Small Business,2021-01-24,2
+30,Advait Shah,customer30@example.com,Corporate,2025-04-24,6
+31,Vihaan Patel,customer31@example.com,Corporate,2021-11-20,8
+32,Aarav Nair,customer32@example.com,Small Business,2022-06-24,9
+33,Reyansh Jain,customer33@example.com,Consumer,2024-07-04,5
+34,Kabir Das,customer34@example.com,Consumer,2021-11-10,6
+35,Reyansh Jain,customer35@example.com,Small Business,2021-01-02,6
+36,Riya Sharma,customer36@example.com,Consumer,2023-01-14,5
+37,Ishaan Sharma,customer37@example.com,Consumer,2024-03-07,2
+38,Aditya Nair,customer38@example.com,Corporate,2025-07-30,2
+39,Advait Shah,customer39@example.com,Consumer,2021-09-20,8
+40,Advait Gupta,customer40@example.com,Corporate,2023-12-17,7
+41,Krishna Rao,customer41@example.com,Small Business,2025-03-27,4
+42,Diya Reddy,customer42@example.com,Small Business,2024-08-23,6
+43,Aarohi Rao,customer43@example.com,Small Business,2023-07-14,2
+44,Ishaan Singh,customer44@example.com,Consumer,2022-11-24,1
+45,Sara Jain,customer45@example.com,Consumer,2024-04-20,4
+46,Aarav Verma,customer46@example.com,Small Business,2024-07-16,1
+47,Ishaan Verma,customer47@example.com,Consumer,2022-11-08,2
+48,Kabir Singh,customer48@example.com,Corporate,2024-10-02,8
+49,Krishna Jain,customer49@example.com,Consumer,2025-01-21,8
+50,Ishaan Shah,customer50@example.com,Corporate,2025-07-12,7
+51,Krishna Verma,customer51@example.com,Consumer,2024-09-11,7
+52,Saanvi Reddy,customer52@example.com,Corporate,2023-08-15,1
+53,Vihaan Sharma,customer53@example.com,Corporate,2025-01-31,6
+54,Vihaan Singh,customer54@example.com,Consumer,2022-01-25,9
+55,Aarohi Gupta,customer55@example.com,Corporate,2022-01-11,5
+56,Aarohi Singh,customer56@example.com,Consumer,2023-06-27,9
+57,Vihaan Sharma,customer57@example.com,Small Business,2024-01-13,1
+58,Aditya Rao,customer58@example.com,Consumer,2021-12-07,7
+59,Riya Iyer,customer59@example.com,Consumer,2023-04-02,1
+60,Reyansh Reddy,customer60@example.com,Consumer,2023-03-11,5
+61,Aarohi Patel,customer61@example.com,Corporate,2024-11-27,9
+62,Riya Gupta,customer62@example.com,Consumer,2022-08-31,4
+63,Vivaan Das,customer63@example.com,Small Business,2024-01-16,1
+64,Aadhya Sharma,customer64@example.com,Consumer,2024-04-11,8
+65,Kabir Rao,customer65@example.com,Small Business,2021-11-19,1
+66,Kabir Verma,customer66@example.com,Consumer,2021-05-21,2
+67,Ishaan Reddy,customer67@example.com,Consumer,2024-03-12,4
+68,Sara Das,customer68@example.com,Consumer,2024-06-22,2
+69,Ira Mehta,customer69@example.com,Small Business,2024-03-03,9
+70,Aadhya Rao,customer70@example.com,Corporate,2022-02-23,6
+71,Ishaan Patel,customer71@example.com,Corporate,2021-09-26,5
+72,Aarohi Kumar,customer72@example.com,Consumer,2021-01-20,8
+73,Meera Das,customer73@example.com,Consumer,2021-05-31,9
+74,Krishna Jain,customer74@example.com,Corporate,2021-09-29,6
+75,Aditya Rao,customer75@example.com,Consumer,2023-01-27,5
+76,Reyansh Iyer,customer76@example.com,Small Business,2024-12-11,5
+77,Meera Shah,customer77@example.com,Small Business,2023-12-20,1
+78,Advait Patel,customer78@example.com,Small Business,2021-08-01,3
+79,Ananya Verma,customer79@example.com,Consumer,2025-03-01,9
+80,Arjun Patel,customer80@example.com,Corporate,2024-05-23,4
+81,Aadhya Singh,customer81@example.com,Small Business,2024-07-22,5
+82,Kabir Iyer,customer82@example.com,Corporate,2021-04-15,2
+83,Ira Malhotra,customer83@example.com,Corporate,2021-04-01,1
+84,Aadhya Shah,customer84@example.com,Consumer,2024-07-28,5
+85,Reyansh Nair,customer85@example.com,Corporate,2024-02-04,7
+86,Advait Sharma,customer86@example.com,Consumer,2021-06-04,3
+87,Advait Sharma,customer87@example.com,Corporate,2024-04-07,9
+88,Arjun Reddy,customer88@example.com,Consumer,2021-03-27,5
+89,Saanvi Rao,customer89@example.com,Consumer,2023-01-03,4
+90,Ishaan Mehta,customer90@example.com,Consumer,2022-12-26,9
+91,Ira Das,customer91@example.com,Small Business,2021-11-13,4
+92,Reyansh Shah,customer92@example.com,Consumer,2023-04-25,1
+93,Reyansh Nair,customer93@example.com,Corporate,2025-05-22,7
+94,Ishaan Patel,customer94@example.com,Consumer,2025-06-01,2
+95,Myra Malhotra,customer95@example.com,Consumer,2023-08-22,4
+96,Krishna Malhotra,customer96@example.com,Corporate,2022-12-18,5
+97,Ishaan Singh,customer97@example.com,Consumer,2024-09-13,4
+98,Myra Kumar,customer98@example.com,Corporate,2021-05-23,5
+99,Saanvi Mehta,customer99@example.com,Small Business,2023-03-30,9
+100,Aadhya Sharma,customer100@example.com,Consumer,2022-06-19,3
+101,Sara Patel,customer101@example.com,Consumer,2021-08-11,7
+102,Saanvi Nair,customer102@example.com,Corporate,2023-06-13,9
+103,Vihaan Reddy,customer103@example.com,Small Business,2022-01-25,5
+104,Vivaan Nair,customer104@example.com,Corporate,2021-01-04,9
+105,Advait Mehta,customer105@example.com,Small Business,2025-02-28,4
+106,Saanvi Reddy,customer106@example.com,Consumer,2024-09-22,6
+107,Meera Kumar,customer107@example.com,Small Business,2021-09-13,5
+108,Kabir Patel,customer108@example.com,Small Business,2023-04-17,6
+109,Myra Nair,customer109@example.com,Corporate,2024-02-10,3
+110,Krishna Reddy,customer110@example.com,Small Business,2023-02-16,3
+111,Meera Das,customer111@example.com,Corporate,2023-04-12,9
+112,Aarav Patel,customer112@example.com,Corporate,2022-03-07,7
+113,Sara Das,customer113@example.com,Small Business,2022-10-22,8
+114,Aarohi Iyer,customer114@example.com,Small Business,2022-03-14,9
+115,Riya Shah,customer115@example.com,Small Business,2021-12-14,2
+116,Diya Jain,customer116@example.com,Small Business,2024-07-20,6
+117,Aditya Malhotra,customer117@example.com,Consumer,2024-10-09,5
+118,Ishaan Shah,customer118@example.com,Consumer,2021-10-29,1
+119,Vivaan Singh,customer119@example.com,Corporate,2024-06-05,2
+120,Aarohi Reddy,customer120@example.com,Small Business,2024-03-24,4
+121,Myra Iyer,customer121@example.com,Corporate,2022-05-15,3
+122,Aarav Rao,customer122@example.com,Consumer,2025-05-14,7
+123,Ishaan Gupta,customer123@example.com,Small Business,2023-11-27,8
+124,Vivaan Jain,customer124@example.com,Consumer,2021-09-06,8
+125,Arjun Shah,customer125@example.com,Corporate,2024-09-29,9
+126,Advait Das,customer126@example.com,Corporate,2025-03-27,8
+127,Meera Malhotra,customer127@example.com,Small Business,2023-10-31,7
+128,Advait Iyer,customer128@example.com,Consumer,2025-03-04,8
+129,Aarohi Patel,customer129@example.com,Consumer,2024-07-29,5
+130,Kabir Iyer,customer130@example.com,Small Business,2022-05-05,5
+131,Aarohi Verma,customer131@example.com,Small Business,2022-08-09,4
+132,Ananya Kumar,customer132@example.com,Corporate,2024-01-12,2
+133,Arjun Gupta,customer133@example.com,Consumer,2023-02-24,3
+134,Krishna Verma,customer134@example.com,Corporate,2023-04-15,6
+135,Advait Iyer,customer135@example.com,Corporate,2021-05-08,4
+136,Ira Reddy,customer136@example.com,Small Business,2024-11-25,1
+137,Sara Reddy,customer137@example.com,Corporate,2021-01-13,6
+138,Diya Shah,customer138@example.com,Corporate,2023-05-09,9
+139,Advait Shah,customer139@example.com,Small Business,2022-03-28,8
+140,Ishaan Patel,customer140@example.com,Corporate,2023-09-22,1
+141,Myra Kumar,customer141@example.com,Small Business,2024-10-22,7
+142,Reyansh Malhotra,customer142@example.com,Corporate,2021-09-19,9
+143,Aarav Rao,customer143@example.com,Corporate,2024-04-27,1
+144,Aditya Mehta,customer144@example.com,Corporate,2021-10-05,8
+145,Reyansh Sharma,customer145@example.com,Corporate,2023-02-16,6
+146,Krishna Iyer,customer146@example.com,Corporate,2022-11-23,7
+147,Ananya Shah,customer147@example.com,Corporate,2022-06-01,2
+148,Riya Sharma,customer148@example.com,Small Business,2024-01-10,1
+149,Saanvi Singh,customer149@example.com,Small Business,2021-05-21,1
+150,Aarav Singh,customer150@example.com,Consumer,2021-02-11,3
+151,Ishaan Gupta,customer151@example.com,Corporate,2024-10-03,2
+152,Sara Singh,customer152@example.com,Corporate,2024-12-03,5
+153,Saanvi Gupta,customer153@example.com,Small Business,2024-05-28,2
+154,Reyansh Patel,customer154@example.com,Consumer,2024-03-31,1
+155,Diya Das,customer155@example.com,Small Business,2023-02-08,7
+156,Krishna Verma,customer156@example.com,Small Business,2024-11-15,4
+157,Vihaan Nair,customer157@example.com,Corporate,2024-11-02,2
+158,Sara Shah,customer158@example.com,Consumer,2022-12-13,9
+159,Ira Mehta,customer159@example.com,Corporate,2021-05-22,9
+160,Aadhya Sharma,customer160@example.com,Corporate,2025-08-12,8
+161,Vihaan Reddy,customer161@example.com,Corporate,2024-07-25,8
+162,Arjun Reddy,customer162@example.com,Consumer,2025-02-11,9
+163,Ananya Das,customer163@example.com,Small Business,2025-05-06,8
+164,Aarohi Reddy,customer164@example.com,Small Business,2024-04-28,5
+165,Aadhya Malhotra,customer165@example.com,Consumer,2021-06-27,5
+166,Aarohi Singh,customer166@example.com,Corporate,2024-03-13,7
+167,Aadhya Sharma,customer167@example.com,Corporate,2022-10-28,3
+168,Riya Singh,customer168@example.com,Corporate,2025-06-22,5
+169,Aadhya Patel,customer169@example.com,Small Business,2024-12-07,5
+170,Advait Sharma,customer170@example.com,Small Business,2022-01-27,2
+171,Ishaan Nair,customer171@example.com,Corporate,2023-09-28,9
+172,Ishaan Nair,customer172@example.com,Corporate,2024-08-15,8
+173,Aarohi Shah,customer173@example.com,Consumer,2021-07-10,5
+174,Ishaan Reddy,customer174@example.com,Small Business,2022-05-14,5
+175,Sara Kumar,customer175@example.com,Corporate,2024-02-08,9
+176,Saanvi Reddy,customer176@example.com,Small Business,2024-02-02,6
+177,Saanvi Nair,customer177@example.com,Corporate,2022-07-09,5
+178,Ananya Singh,customer178@example.com,Consumer,2025-01-17,4
+179,Aadhya Verma,customer179@example.com,Small Business,2024-01-03,3
+180,Krishna Singh,customer180@example.com,Small Business,2023-09-19,5
+181,Sara Shah,customer181@example.com,Small Business,2024-05-07,5
+182,Vihaan Malhotra,customer182@example.com,Consumer,2022-08-30,4
+183,Saanvi Gupta,customer183@example.com,Corporate,2021-01-29,9
+184,Arjun Patel,customer184@example.com,Consumer,2021-04-22,9
+185,Diya Nair,customer185@example.com,Consumer,2024-07-30,8
+186,Vihaan Malhotra,customer186@example.com,Consumer,2024-03-21,5
+187,Riya Iyer,customer187@example.com,Corporate,2022-11-29,3
+188,Vivaan Patel,customer188@example.com,Corporate,2021-08-22,2
+189,Myra Iyer,customer189@example.com,Consumer,2024-03-27,1
+190,Arjun Gupta,customer190@example.com,Small Business,2022-09-15,2
+191,Ishaan Verma,customer191@example.com,Small Business,2025-04-15,7
+192,Meera Das,customer192@example.com,Small Business,2022-04-08,9
+193,Myra Iyer,customer193@example.com,Corporate,2022-09-01,7
+194,Diya Das,customer194@example.com,Small Business,2021-05-04,2
+195,Krishna Mehta,customer195@example.com,Consumer,2022-06-26,2
+196,Reyansh Singh,customer196@example.com,Consumer,2024-02-05,2
+197,Reyansh Sharma,customer197@example.com,Corporate,2023-07-12,8
+198,Diya Sharma,customer198@example.com,Consumer,2022-08-14,5
+199,Aarohi Verma,customer199@example.com,Small Business,2022-04-24,5
+200,Sara Mehta,customer200@example.com,Consumer,2023-05-21,2
+201,Advait Singh,customer201@example.com,Small Business,2021-11-02,5
+202,Arjun Verma,customer202@example.com,Consumer,2021-12-06,5
+203,Meera Nair,customer203@example.com,Small Business,2022-08-15,8
+204,Vihaan Iyer,customer204@example.com,Small Business,2022-09-15,7
+205,Ananya Jain,customer205@example.com,Small Business,2023-10-09,8
+206,Aditya Das,customer206@example.com,Consumer,2023-06-04,6
+207,Meera Patel,customer207@example.com,Consumer,2021-07-07,4
+208,Sara Das,customer208@example.com,Consumer,2025-04-16,5
+209,Sara Sharma,customer209@example.com,Consumer,2023-08-22,9
+210,Aarohi Rao,customer210@example.com,Corporate,2022-01-07,7
+211,Riya Verma,customer211@example.com,Corporate,2022-12-14,7
+212,Aadhya Kumar,customer212@example.com,Small Business,2021-08-03,3
+213,Aadhya Reddy,customer213@example.com,Small Business,2023-10-12,5
+214,Myra Malhotra,customer214@example.com,Small Business,2021-03-17,8
+215,Aditya Kumar,customer215@example.com,Corporate,2022-10-25,2
+216,Myra Malhotra,customer216@example.com,Small Business,2025-08-17,1
+217,Advait Iyer,customer217@example.com,Corporate,2021-04-22,4
+218,Kabir Kumar,customer218@example.com,Small Business,2025-03-30,8
+219,Aarohi Shah,customer219@example.com,Consumer,2022-02-21,5
+220,Advait Gupta,customer220@example.com,Corporate,2023-06-17,8
+221,Vihaan Sharma,customer221@example.com,Small Business,2024-05-31,4
+222,Reyansh Patel,customer222@example.com,Small Business,2021-01-29,9
+223,Ira Verma,customer223@example.com,Consumer,2021-08-21,8
+224,Vihaan Mehta,customer224@example.com,Consumer,2023-10-18,5
+225,Kabir Nair,customer225@example.com,Corporate,2023-05-01,8
+226,Riya Singh,customer226@example.com,Corporate,2024-02-03,3
+227,Myra Singh,customer227@example.com,Small Business,2023-11-07,3
+228,Aditya Patel,customer228@example.com,Corporate,2022-11-28,9
+229,Ananya Malhotra,customer229@example.com,Consumer,2022-08-03,5
+230,Sara Das,customer230@example.com,Small Business,2023-09-30,3
+231,Aarohi Jain,customer231@example.com,Corporate,2022-12-08,6
+232,Advait Shah,customer232@example.com,Small Business,2023-02-12,8
+233,Aadhya Malhotra,customer233@example.com,Consumer,2024-11-29,4
+234,Sara Reddy,customer234@example.com,Consumer,2025-05-08,7
+235,Vivaan Kumar,customer235@example.com,Small Business,2023-08-27,7
+236,Myra Mehta,customer236@example.com,Small Business,2021-11-08,8
+237,Vivaan Gupta,customer237@example.com,Small Business,2024-04-23,6
+238,Vihaan Malhotra,customer238@example.com,Corporate,2021-07-24,9
+239,Aarohi Sharma,customer239@example.com,Small Business,2021-10-23,7
+240,Arjun Verma,customer240@example.com,Corporate,2025-05-20,5
+241,Aadhya Das,customer241@example.com,Small Business,2023-03-26,2
+242,Aadhya Malhotra,customer242@example.com,Small Business,2023-12-29,7
+243,Aadhya Mehta,customer243@example.com,Small Business,2025-04-05,8
+244,Advait Sharma,customer244@example.com,Small Business,2021-05-21,4
+245,Diya Singh,customer245@example.com,Small Business,2021-07-05,7
+246,Vihaan Shah,customer246@example.com,Small Business,2024-12-12,2
+247,Aarohi Gupta,customer247@example.com,Small Business,2022-09-06,1
+248,Vivaan Kumar,customer248@example.com,Consumer,2022-08-24,6
+249,Saanvi Reddy,customer249@example.com,Consumer,2022-05-16,9
+250,Ira Das,customer250@example.com,Small Business,2025-06-12,3
+251,Reyansh Gupta,customer251@example.com,Consumer,2024-06-02,7
+252,Meera Mehta,customer252@example.com,Consumer,2023-10-17,3
+253,Ishaan Iyer,customer253@example.com,Small Business,2022-06-05,8
+254,Ananya Mehta,customer254@example.com,Consumer,2025-07-06,8
+255,Diya Mehta,customer255@example.com,Small Business,2021-11-20,2
+256,Aarohi Kumar,customer256@example.com,Small Business,2022-09-05,7
+257,Ananya Iyer,customer257@example.com,Corporate,2022-02-12,7
+258,Riya Verma,customer258@example.com,Consumer,2023-02-21,6
+259,Sara Patel,customer259@example.com,Small Business,2022-08-28,1
+260,Myra Patel,customer260@example.com,Consumer,2024-03-05,1
+261,Meera Nair,customer261@example.com,Corporate,2022-08-10,4
+262,Meera Shah,customer262@example.com,Corporate,2022-03-25,4
+263,Meera Patel,customer263@example.com,Small Business,2025-03-28,3
+264,Vihaan Rao,customer264@example.com,Small Business,2024-08-16,1
+265,Diya Shah,customer265@example.com,Corporate,2021-03-10,6
+266,Arjun Verma,customer266@example.com,Corporate,2022-11-01,7
+267,Reyansh Singh,customer267@example.com,Consumer,2025-05-30,9
+268,Saanvi Jain,customer268@example.com,Small Business,2022-07-13,3
+269,Ananya Rao,customer269@example.com,Corporate,2025-07-10,5
+270,Aadhya Shah,customer270@example.com,Consumer,2023-08-18,2
+271,Arjun Shah,customer271@example.com,Consumer,2024-10-17,7
+272,Advait Kumar,customer272@example.com,Consumer,2025-06-08,7
+273,Aarav Patel,customer273@example.com,Small Business,2021-09-11,8
+274,Saanvi Mehta,customer274@example.com,Small Business,2024-10-08,5
+275,Sara Reddy,customer275@example.com,Small Business,2023-01-31,2
+276,Ishaan Iyer,customer276@example.com,Consumer,2024-06-22,9
+277,Aadhya Rao,customer277@example.com,Small Business,2022-03-30,2
+278,Aarohi Rao,customer278@example.com,Small Business,2022-09-11,7
+279,Vihaan Gupta,customer279@example.com,Consumer,2021-03-18,5
+280,Riya Verma,customer280@example.com,Consumer,2022-04-26,9
+281,Arjun Reddy,customer281@example.com,Corporate,2023-01-30,9
+282,Ira Das,customer282@example.com,Small Business,2025-01-28,3
+283,Ira Mehta,customer283@example.com,Consumer,2023-09-30,7
+284,Ananya Sharma,customer284@example.com,Small Business,2023-01-29,4
+285,Aarohi Iyer,customer285@example.com,Consumer,2023-01-13,2
+286,Saanvi Jain,customer286@example.com,Small Business,2023-01-05,1
+287,Myra Patel,customer287@example.com,Consumer,2021-09-08,8
+288,Aditya Mehta,customer288@example.com,Consumer,2024-08-07,1
+289,Vivaan Shah,customer289@example.com,Corporate,2022-05-14,3
+290,Sara Singh,customer290@example.com,Consumer,2025-08-27,9
+291,Krishna Das,customer291@example.com,Consumer,2025-07-24,4
+292,Aadhya Shah,customer292@example.com,Consumer,2025-06-04,1
+293,Ananya Malhotra,customer293@example.com,Consumer,2021-09-24,9
+294,Ananya Shah,customer294@example.com,Consumer,2021-08-14,1
+295,Arjun Sharma,customer295@example.com,Corporate,2025-06-06,4
+296,Sara Kumar,customer296@example.com,Consumer,2021-12-23,5
+297,Vivaan Gupta,customer297@example.com,Small Business,2023-05-13,9
+298,Vihaan Nair,customer298@example.com,Consumer,2023-09-03,8
+299,Saanvi Jain,customer299@example.com,Small Business,2021-08-12,8
+300,Kabir Singh,customer300@example.com,Small Business,2021-03-30,9
+301,Diya Iyer,customer301@example.com,Small Business,2021-03-05,1
+302,Riya Malhotra,customer302@example.com,Corporate,2023-05-24,2
+303,Riya Nair,customer303@example.com,Corporate,2021-05-31,2
+304,Aadhya Das,customer304@example.com,Consumer,2021-05-15,3
+305,Ananya Das,customer305@example.com,Small Business,2024-04-13,9
+306,Aadhya Reddy,customer306@example.com,Small Business,2023-12-23,5
+307,Aarohi Jain,customer307@example.com,Small Business,2023-06-01,2
+308,Vihaan Malhotra,customer308@example.com,Small Business,2024-08-26,9
+309,Krishna Reddy,customer309@example.com,Corporate,2022-04-13,7
+310,Aadhya Malhotra,customer310@example.com,Corporate,2023-03-28,7
+311,Vihaan Kumar,customer311@example.com,Corporate,2022-10-03,5
+312,Saanvi Gupta,customer312@example.com,Small Business,2023-08-30,2
+313,Aditya Malhotra,customer313@example.com,Consumer,2021-07-10,7
+314,Vihaan Nair,customer314@example.com,Small Business,2023-02-03,3
+315,Advait Sharma,customer315@example.com,Small Business,2024-02-25,9
+316,Aadhya Mehta,customer316@example.com,Consumer,2023-04-22,6
+317,Ira Malhotra,customer317@example.com,Small Business,2021-04-16,5
+318,Meera Patel,customer318@example.com,Corporate,2021-08-01,9
+319,Krishna Gupta,customer319@example.com,Small Business,2023-09-15,4
+320,Vihaan Kumar,customer320@example.com,Small Business,2023-01-23,2
+321,Ananya Das,customer321@example.com,Consumer,2025-07-12,7
+322,Advait Shah,customer322@example.com,Small Business,2024-06-10,9
+323,Aarav Das,customer323@example.com,Small Business,2025-08-26,5
+324,Aarav Gupta,customer324@example.com,Corporate,2024-12-10,5
+325,Aadhya Kumar,customer325@example.com,Consumer,2022-01-07,3
+326,Sara Mehta,customer326@example.com,Corporate,2021-05-23,3
+327,Aarav Verma,customer327@example.com,Small Business,2023-12-23,4
+328,Myra Reddy,customer328@example.com,Corporate,2022-11-30,3
+329,Saanvi Patel,customer329@example.com,Small Business,2022-10-27,2
+330,Vivaan Gupta,customer330@example.com,Consumer,2025-03-26,1
+331,Aditya Patel,customer331@example.com,Corporate,2024-09-17,7
+332,Riya Das,customer332@example.com,Corporate,2023-04-29,5
+333,Krishna Shah,customer333@example.com,Small Business,2021-08-22,6
+334,Ira Verma,customer334@example.com,Corporate,2024-10-20,8
+335,Kabir Mehta,customer335@example.com,Corporate,2021-04-04,4
+336,Myra Das,customer336@example.com,Consumer,2021-01-16,4
+337,Diya Singh,customer337@example.com,Consumer,2025-04-15,5
+338,Diya Kumar,customer338@example.com,Consumer,2021-01-16,8
+339,Ira Gupta,customer339@example.com,Consumer,2023-02-18,9
+340,Ishaan Jain,customer340@example.com,Small Business,2024-09-30,6
+341,Aditya Reddy,customer341@example.com,Small Business,2021-03-28,7
+342,Aarav Iyer,customer342@example.com,Consumer,2022-10-04,7
+343,Sara Reddy,customer343@example.com,Small Business,2024-08-04,7
+344,Diya Verma,customer344@example.com,Corporate,2021-02-12,6
+345,Reyansh Shah,customer345@example.com,Small Business,2023-08-01,6
+346,Aditya Reddy,customer346@example.com,Consumer,2022-05-14,7
+347,Sara Reddy,customer347@example.com,Small Business,2021-06-11,7
+348,Diya Nair,customer348@example.com,Corporate,2022-03-30,6
+349,Reyansh Verma,customer349@example.com,Small Business,2024-07-20,2
+350,Kabir Jain,customer350@example.com,Consumer,2025-05-09,6
+351,Saanvi Nair,customer351@example.com,Small Business,2025-07-28,3
+352,Ishaan Verma,customer352@example.com,Consumer,2022-06-09,4
+353,Reyansh Das,customer353@example.com,Consumer,2025-04-06,2
+354,Reyansh Shah,customer354@example.com,Small Business,2023-10-09,8
+355,Sara Shah,customer355@example.com,Small Business,2023-07-09,6
+356,Aadhya Gupta,customer356@example.com,Corporate,2021-05-20,8
+357,Aarohi Mehta,customer357@example.com,Corporate,2025-06-19,5
+358,Sara Sharma,customer358@example.com,Corporate,2023-11-06,2
+359,Diya Iyer,customer359@example.com,Corporate,2021-03-19,1
+360,Saanvi Malhotra,customer360@example.com,Corporate,2021-06-07,2
+361,Meera Das,customer361@example.com,Small Business,2023-02-27,8
+362,Sara Jain,customer362@example.com,Small Business,2021-03-26,8
+363,Sara Mehta,customer363@example.com,Consumer,2022-10-21,8
+364,Kabir Gupta,customer364@example.com,Consumer,2023-07-12,2
+365,Aadhya Nair,customer365@example.com,Consumer,2023-10-31,3
+366,Vivaan Singh,customer366@example.com,Small Business,2023-06-16,8
+367,Kabir Jain,customer367@example.com,Small Business,2021-11-22,6
+368,Saanvi Rao,customer368@example.com,Corporate,2023-03-05,7
+369,Aadhya Mehta,customer369@example.com,Small Business,2021-04-18,6
+370,Aditya Kumar,customer370@example.com,Consumer,2024-02-17,7
+371,Diya Patel,customer371@example.com,Small Business,2024-09-06,3
+372,Aadhya Verma,customer372@example.com,Small Business,2024-09-21,3
+373,Saanvi Patel,customer373@example.com,Small Business,2024-12-01,7
+374,Arjun Das,customer374@example.com,Small Business,2021-06-23,5
+375,Advait Reddy,customer375@example.com,Small Business,2025-06-10,6
+376,Arjun Mehta,customer376@example.com,Small Business,2025-08-25,9
+377,Aditya Mehta,customer377@example.com,Small Business,2023-05-18,9
+378,Saanvi Sharma,customer378@example.com,Corporate,2022-09-25,3
+379,Krishna Kumar,customer379@example.com,Corporate,2022-01-29,4
+380,Arjun Gupta,customer380@example.com,Consumer,2022-08-29,2
+381,Kabir Shah,customer381@example.com,Small Business,2025-02-21,9
+382,Vivaan Mehta,customer382@example.com,Corporate,2025-04-19,3
+383,Meera Reddy,customer383@example.com,Consumer,2021-11-29,3
+384,Meera Shah,customer384@example.com,Consumer,2025-01-16,8
+385,Vivaan Reddy,customer385@example.com,Corporate,2024-10-17,4
+386,Aarohi Das,customer386@example.com,Corporate,2025-03-21,8
+387,Ishaan Jain,customer387@example.com,Consumer,2022-09-26,8
+388,Krishna Kumar,customer388@example.com,Small Business,2024-03-14,8
+389,Aarohi Shah,customer389@example.com,Corporate,2025-05-13,7
+390,Kabir Jain,customer390@example.com,Corporate,2021-11-28,4
+391,Meera Gupta,customer391@example.com,Corporate,2021-04-17,8
+392,Saanvi Jain,customer392@example.com,Consumer,2024-12-27,9
+393,Vihaan Patel,customer393@example.com,Consumer,2025-04-12,3
+394,Ananya Iyer,customer394@example.com,Small Business,2021-10-29,7
+395,Aditya Rao,customer395@example.com,Consumer,2025-07-31,8
+396,Saanvi Rao,customer396@example.com,Consumer,2023-04-30,1
+397,Myra Jain,customer397@example.com,Corporate,2022-04-28,7
+398,Aditya Kumar,customer398@example.com,Consumer,2021-02-27,6
+399,Vihaan Malhotra,customer399@example.com,Small Business,2024-08-24,6
+400,Arjun Gupta,customer400@example.com,Consumer,2022-08-11,8
+401,Arjun Shah,customer401@example.com,Small Business,2023-08-19,8
+402,Meera Sharma,customer402@example.com,Consumer,2021-02-08,5
+403,Krishna Malhotra,customer403@example.com,Consumer,2024-01-29,9
+404,Ira Verma,customer404@example.com,Corporate,2022-05-02,5
+405,Vihaan Sharma,customer405@example.com,Consumer,2023-05-10,8
+406,Aditya Verma,customer406@example.com,Corporate,2024-05-07,9
+407,Aarav Mehta,customer407@example.com,Small Business,2024-03-23,4
+408,Arjun Patel,customer408@example.com,Corporate,2021-01-04,6
+409,Ishaan Das,customer409@example.com,Corporate,2022-01-19,2
+410,Kabir Kumar,customer410@example.com,Consumer,2023-12-14,9
+411,Kabir Shah,customer411@example.com,Small Business,2024-02-09,1
+412,Myra Malhotra,customer412@example.com,Corporate,2021-03-31,7
+413,Saanvi Patel,customer413@example.com,Small Business,2021-02-03,6
+414,Aditya Kumar,customer414@example.com,Consumer,2025-02-10,2
+415,Sara Nair,customer415@example.com,Corporate,2021-10-01,1
+416,Saanvi Jain,customer416@example.com,Corporate,2025-07-25,3
+417,Aarohi Nair,customer417@example.com,Corporate,2024-07-17,3
+418,Arjun Verma,customer418@example.com,Small Business,2025-05-09,8
+419,Vivaan Patel,customer419@example.com,Consumer,2021-03-31,4
+420,Vivaan Kumar,customer420@example.com,Corporate,2023-11-22,7
+421,Advait Iyer,customer421@example.com,Corporate,2021-03-16,4
+422,Diya Kumar,customer422@example.com,Consumer,2024-09-04,6
+423,Ananya Verma,customer423@example.com,Corporate,2023-06-14,7
+424,Aarohi Rao,customer424@example.com,Corporate,2022-11-26,3
+425,Riya Nair,customer425@example.com,Corporate,2023-01-23,9
+426,Ananya Shah,customer426@example.com,Consumer,2025-01-29,7
+427,Aditya Reddy,customer427@example.com,Small Business,2025-08-12,3
+428,Advait Patel,customer428@example.com,Corporate,2021-07-30,2
+429,Aadhya Mehta,customer429@example.com,Corporate,2022-09-20,8
+430,Meera Nair,customer430@example.com,Corporate,2021-12-08,8
+431,Saanvi Iyer,customer431@example.com,Consumer,2025-01-28,6
+432,Meera Reddy,customer432@example.com,Corporate,2024-08-02,1
+433,Aditya Mehta,customer433@example.com,Small Business,2023-04-12,6
+434,Kabir Shah,customer434@example.com,Small Business,2024-10-23,3
+435,Aarav Gupta,customer435@example.com,Small Business,2024-10-20,8
+436,Vivaan Gupta,customer436@example.com,Consumer,2022-04-29,6
+437,Saanvi Reddy,customer437@example.com,Small Business,2021-03-08,3
+438,Aarohi Kumar,customer438@example.com,Corporate,2023-06-29,2
+439,Sara Gupta,customer439@example.com,Small Business,2023-01-22,7
+440,Aadhya Mehta,customer440@example.com,Corporate,2022-05-27,2
+441,Aarav Nair,customer441@example.com,Consumer,2023-10-20,9
+442,Myra Rao,customer442@example.com,Small Business,2021-08-30,5
+443,Ananya Nair,customer443@example.com,Corporate,2022-03-16,5
+444,Riya Singh,customer444@example.com,Consumer,2021-10-05,2
+445,Aarohi Gupta,customer445@example.com,Small Business,2023-07-01,2
+446,Aadhya Mehta,customer446@example.com,Corporate,2024-12-24,2
+447,Advait Jain,customer447@example.com,Corporate,2022-09-07,3
+448,Reyansh Shah,customer448@example.com,Corporate,2023-11-08,4
+449,Vihaan Singh,customer449@example.com,Consumer,2022-04-30,8
+450,Aarav Kumar,customer450@example.com,Small Business,2024-03-18,6
+451,Aarohi Shah,customer451@example.com,Small Business,2021-09-23,2
+452,Aditya Patel,customer452@example.com,Corporate,2025-01-08,8
+453,Kabir Reddy,customer453@example.com,Corporate,2025-08-14,2
+454,Arjun Kumar,customer454@example.com,Small Business,2021-06-01,8
+455,Aarohi Mehta,customer455@example.com,Small Business,2022-12-07,3
+456,Advait Mehta,customer456@example.com,Small Business,2022-01-08,3
+457,Ira Jain,customer457@example.com,Consumer,2021-09-12,9
+458,Arjun Patel,customer458@example.com,Consumer,2021-11-28,6
+459,Ishaan Kumar,customer459@example.com,Small Business,2022-08-05,2
+460,Ananya Singh,customer460@example.com,Small Business,2024-02-03,5
+461,Arjun Mehta,customer461@example.com,Corporate,2024-06-12,9
+462,Aditya Jain,customer462@example.com,Small Business,2021-12-12,3
+463,Reyansh Mehta,customer463@example.com,Small Business,2025-01-15,6
+464,Sara Sharma,customer464@example.com,Consumer,2021-06-16,1
+465,Sara Patel,customer465@example.com,Small Business,2022-03-08,7
+466,Meera Mehta,customer466@example.com,Consumer,2023-10-17,9
+467,Diya Mehta,customer467@example.com,Corporate,2023-09-17,4
+468,Myra Patel,customer468@example.com,Corporate,2021-05-30,1
+469,Reyansh Iyer,customer469@example.com,Corporate,2023-09-19,8
+470,Krishna Kumar,customer470@example.com,Small Business,2021-10-22,6
+471,Aadhya Nair,customer471@example.com,Corporate,2023-03-28,3
+472,Saanvi Jain,customer472@example.com,Small Business,2021-08-06,6
+473,Ishaan Iyer,customer473@example.com,Consumer,2022-07-02,8
+474,Ishaan Gupta,customer474@example.com,Consumer,2021-04-14,5
+475,Myra Malhotra,customer475@example.com,Small Business,2023-05-07,4
+476,Reyansh Malhotra,customer476@example.com,Corporate,2024-03-29,6
+477,Krishna Shah,customer477@example.com,Consumer,2023-10-18,9
+478,Aarohi Iyer,customer478@example.com,Corporate,2023-10-16,1
+479,Aditya Reddy,customer479@example.com,Small Business,2023-07-26,4
+480,Krishna Das,customer480@example.com,Corporate,2021-04-10,1
+481,Diya Iyer,customer481@example.com,Small Business,2024-09-01,8
+482,Diya Jain,customer482@example.com,Consumer,2021-08-09,7
+483,Arjun Rao,customer483@example.com,Corporate,2025-01-29,6
+484,Myra Kumar,customer484@example.com,Consumer,2023-04-01,1
+485,Sara Jain,customer485@example.com,Consumer,2023-01-13,9
+486,Diya Verma,customer486@example.com,Corporate,2023-10-30,8
+487,Advait Patel,customer487@example.com,Small Business,2024-10-25,2
+488,Arjun Verma,customer488@example.com,Corporate,2023-02-04,6
+489,Advait Kumar,customer489@example.com,Consumer,2022-02-12,9
+490,Myra Jain,customer490@example.com,Consumer,2021-04-03,1
+491,Arjun Nair,customer491@example.com,Corporate,2025-07-05,8
+492,Kabir Iyer,customer492@example.com,Consumer,2024-05-26,9
+493,Arjun Kumar,customer493@example.com,Small Business,2022-10-15,3
+494,Myra Das,customer494@example.com,Small Business,2022-09-05,6
+495,Kabir Malhotra,customer495@example.com,Small Business,2023-12-27,8
+496,Sara Patel,customer496@example.com,Corporate,2025-07-29,1
+497,Saanvi Kumar,customer497@example.com,Small Business,2021-08-13,7
+498,Sara Patel,customer498@example.com,Small Business,2024-11-10,1
+499,Meera Iyer,customer499@example.com,Corporate,2024-09-04,4
+500,Vivaan Das,customer500@example.com,Corporate,2021-12-16,9
+501,Meera Shah,customer501@example.com,Corporate,2021-10-30,4
+502,Vivaan Das,customer502@example.com,Small Business,2021-08-14,4
+503,Aarav Iyer,customer503@example.com,Corporate,2023-05-08,3
+504,Ira Nair,customer504@example.com,Consumer,2023-04-21,9
+505,Meera Rao,customer505@example.com,Corporate,2025-02-15,1
+506,Arjun Jain,customer506@example.com,Consumer,2024-02-23,6
+507,Riya Jain,customer507@example.com,Corporate,2022-10-05,3
+508,Aarohi Rao,customer508@example.com,Small Business,2022-12-03,9
+509,Saanvi Mehta,customer509@example.com,Small Business,2024-10-26,5
+510,Meera Iyer,customer510@example.com,Consumer,2022-05-20,5
+511,Advait Patel,customer511@example.com,Consumer,2022-09-02,5
+512,Krishna Nair,customer512@example.com,Small Business,2023-09-29,6
+513,Riya Kumar,customer513@example.com,Small Business,2025-06-17,5
+514,Diya Verma,customer514@example.com,Small Business,2024-10-17,9
+515,Myra Rao,customer515@example.com,Corporate,2025-08-04,6
+516,Arjun Patel,customer516@example.com,Consumer,2022-08-13,2
+517,Saanvi Rao,customer517@example.com,Corporate,2024-09-05,5
+518,Riya Singh,customer518@example.com,Consumer,2025-08-23,9
+519,Ananya Rao,customer519@example.com,Small Business,2024-11-26,5
+520,Arjun Verma,customer520@example.com,Small Business,2025-02-26,4
+521,Ishaan Sharma,customer521@example.com,Small Business,2023-12-24,4
+522,Ishaan Sharma,customer522@example.com,Consumer,2023-04-27,6
+523,Riya Verma,customer523@example.com,Small Business,2025-04-28,3
+524,Aarav Jain,customer524@example.com,Consumer,2023-04-14,8
+525,Riya Mehta,customer525@example.com,Consumer,2025-03-29,5
+526,Aadhya Patel,customer526@example.com,Small Business,2021-05-02,2
+527,Sara Singh,customer527@example.com,Small Business,2025-02-21,1
+528,Reyansh Reddy,customer528@example.com,Consumer,2021-03-16,7
+529,Riya Gupta,customer529@example.com,Small Business,2022-08-16,1
+530,Aarav Patel,customer530@example.com,Small Business,2024-05-19,2
+531,Aadhya Patel,customer531@example.com,Corporate,2024-08-06,9
+532,Kabir Iyer,customer532@example.com,Consumer,2023-10-30,8
+533,Ananya Singh,customer533@example.com,Consumer,2022-11-09,3
+534,Aarohi Mehta,customer534@example.com,Corporate,2025-01-11,3
+535,Aarav Nair,customer535@example.com,Corporate,2025-06-08,5
+536,Sara Mehta,customer536@example.com,Consumer,2021-12-26,7
+537,Ira Jain,customer537@example.com,Corporate,2021-06-27,7
+538,Vihaan Gupta,customer538@example.com,Consumer,2023-09-05,6
+539,Ishaan Sharma,customer539@example.com,Corporate,2023-02-25,4
+540,Aarohi Shah,customer540@example.com,Corporate,2022-11-07,5
+541,Sara Nair,customer541@example.com,Small Business,2021-01-24,5
+542,Saanvi Nair,customer542@example.com,Consumer,2021-05-08,2
+543,Aarohi Patel,customer543@example.com,Consumer,2023-04-11,9
+544,Diya Nair,customer544@example.com,Consumer,2024-08-01,5
+545,Saanvi Das,customer545@example.com,Consumer,2022-03-25,3
+546,Riya Gupta,customer546@example.com,Corporate,2025-03-12,6
+547,Ira Nair,customer547@example.com,Small Business,2023-08-23,9
+548,Krishna Shah,customer548@example.com,Consumer,2024-10-25,2
+549,Kabir Iyer,customer549@example.com,Small Business,2024-12-12,6
+550,Aditya Rao,customer550@example.com,Small Business,2021-08-18,1
+551,Advait Rao,customer551@example.com,Small Business,2022-02-19,9
+552,Arjun Gupta,customer552@example.com,Corporate,2023-12-02,8
+553,Vihaan Mehta,customer553@example.com,Consumer,2025-01-08,8
+554,Aditya Rao,customer554@example.com,Small Business,2023-07-02,1
+555,Aarohi Gupta,customer555@example.com,Small Business,2023-05-01,8
+556,Sara Sharma,customer556@example.com,Small Business,2023-08-05,5
+557,Aarav Reddy,customer557@example.com,Corporate,2025-07-31,1
+558,Krishna Das,customer558@example.com,Consumer,2021-04-03,7
+559,Saanvi Nair,customer559@example.com,Consumer,2024-01-14,1
+560,Aditya Rao,customer560@example.com,Corporate,2021-03-06,5
+561,Ira Gupta,customer561@example.com,Consumer,2025-04-18,7
+562,Saanvi Rao,customer562@example.com,Corporate,2023-07-08,7
+563,Myra Verma,customer563@example.com,Small Business,2024-09-17,9
+564,Arjun Mehta,customer564@example.com,Corporate,2021-08-31,3
+565,Advait Reddy,customer565@example.com,Small Business,2021-09-18,4
+566,Aarav Shah,customer566@example.com,Consumer,2022-09-04,8
+567,Advait Reddy,customer567@example.com,Small Business,2023-02-16,4
+568,Ishaan Iyer,customer568@example.com,Corporate,2021-11-14,5
+569,Krishna Rao,customer569@example.com,Small Business,2025-04-17,2
+570,Vivaan Shah,customer570@example.com,Small Business,2023-05-09,1
+571,Ishaan Singh,customer571@example.com,Consumer,2021-07-26,1
+572,Aarohi Das,customer572@example.com,Small Business,2024-12-11,1
+573,Ishaan Nair,customer573@example.com,Consumer,2023-04-04,8
+574,Ishaan Jain,customer574@example.com,Consumer,2025-03-25,1
+575,Arjun Jain,customer575@example.com,Corporate,2022-04-25,6
+576,Sara Das,customer576@example.com,Small Business,2025-08-04,6
+577,Ishaan Patel,customer577@example.com,Consumer,2024-09-14,9
+578,Ishaan Reddy,customer578@example.com,Corporate,2022-07-18,1
+579,Advait Das,customer579@example.com,Small Business,2021-12-25,7
+580,Advait Iyer,customer580@example.com,Consumer,2022-12-07,7
+581,Kabir Kumar,customer581@example.com,Small Business,2023-05-03,7
+582,Arjun Patel,customer582@example.com,Corporate,2022-01-12,9
+583,Riya Singh,customer583@example.com,Consumer,2022-09-08,3
+584,Aarohi Rao,customer584@example.com,Consumer,2024-02-26,7
+585,Ira Jain,customer585@example.com,Small Business,2021-10-02,7
+586,Ishaan Patel,customer586@example.com,Consumer,2022-11-08,2
+587,Aarohi Malhotra,customer587@example.com,Corporate,2021-07-09,9
+588,Krishna Sharma,customer588@example.com,Corporate,2023-02-12,1
+589,Aditya Singh,customer589@example.com,Small Business,2025-01-23,9
+590,Krishna Iyer,customer590@example.com,Consumer,2022-11-13,5
+591,Aarav Singh,customer591@example.com,Consumer,2025-02-27,2
+592,Riya Rao,customer592@example.com,Consumer,2024-11-25,4
+593,Myra Rao,customer593@example.com,Consumer,2024-02-05,6
+594,Diya Reddy,customer594@example.com,Corporate,2023-12-29,6
+595,Diya Patel,customer595@example.com,Corporate,2023-11-17,8
+596,Aarohi Verma,customer596@example.com,Small Business,2023-08-20,6
+597,Krishna Kumar,customer597@example.com,Corporate,2023-04-28,1
+598,Sara Malhotra,customer598@example.com,Consumer,2025-02-27,3
+599,Aarav Patel,customer599@example.com,Small Business,2024-04-11,7
+600,Diya Gupta,customer600@example.com,Consumer,2022-11-07,4
+601,Myra Das,customer601@example.com,Consumer,2023-10-20,9
+602,Aadhya Patel,customer602@example.com,Corporate,2025-01-21,8
+603,Aarohi Gupta,customer603@example.com,Small Business,2025-06-17,6
+604,Reyansh Gupta,customer604@example.com,Small Business,2024-01-25,8
+605,Reyansh Rao,customer605@example.com,Small Business,2024-08-07,1
+606,Kabir Sharma,customer606@example.com,Consumer,2025-08-03,1
+607,Aarav Reddy,customer607@example.com,Consumer,2024-07-15,4
+608,Aditya Nair,customer608@example.com,Consumer,2021-01-19,4
+609,Kabir Iyer,customer609@example.com,Corporate,2021-05-04,8
+610,Riya Sharma,customer610@example.com,Consumer,2023-12-26,9
+611,Ira Sharma,customer611@example.com,Consumer,2023-12-21,5
+612,Advait Patel,customer612@example.com,Consumer,2023-10-26,7
+613,Reyansh Verma,customer613@example.com,Consumer,2023-12-10,3
+614,Ishaan Singh,customer614@example.com,Small Business,2023-12-15,5
+615,Saanvi Patel,customer615@example.com,Corporate,2021-06-11,6
+616,Myra Iyer,customer616@example.com,Small Business,2022-05-14,4
+617,Diya Mehta,customer617@example.com,Consumer,2024-08-31,1
+618,Aditya Reddy,customer618@example.com,Corporate,2023-02-12,9
+619,Riya Sharma,customer619@example.com,Small Business,2021-01-20,3
+620,Aditya Iyer,customer620@example.com,Corporate,2024-08-13,6
+621,Sara Malhotra,customer621@example.com,Consumer,2023-12-18,1
+622,Ishaan Singh,customer622@example.com,Small Business,2024-03-06,8
+623,Ananya Sharma,customer623@example.com,Consumer,2024-11-02,5
+624,Advait Das,customer624@example.com,Small Business,2021-03-09,3
+625,Aadhya Sharma,customer625@example.com,Consumer,2024-04-17,3
+626,Myra Rao,customer626@example.com,Consumer,2022-09-05,3
+627,Sara Singh,customer627@example.com,Small Business,2023-03-08,9
+628,Aadhya Reddy,customer628@example.com,Small Business,2021-10-14,2
+629,Kabir Nair,customer629@example.com,Corporate,2021-04-20,2
+630,Ira Singh,customer630@example.com,Consumer,2022-11-29,7
+631,Aadhya Sharma,customer631@example.com,Small Business,2022-07-14,8
+632,Riya Singh,customer632@example.com,Corporate,2024-02-07,7
+633,Ira Gupta,customer633@example.com,Small Business,2024-04-14,7
+634,Aditya Shah,customer634@example.com,Small Business,2022-08-28,4
+635,Aditya Verma,customer635@example.com,Corporate,2021-11-12,7
+636,Arjun Nair,customer636@example.com,Corporate,2022-10-11,6
+637,Vihaan Verma,customer637@example.com,Consumer,2022-09-24,8
+638,Saanvi Shah,customer638@example.com,Corporate,2021-07-29,3
+639,Aditya Gupta,customer639@example.com,Corporate,2023-07-09,9
+640,Advait Jain,customer640@example.com,Corporate,2021-07-31,1
+641,Aditya Kumar,customer641@example.com,Small Business,2021-07-10,6
+642,Myra Sharma,customer642@example.com,Corporate,2023-04-28,7
+643,Aditya Nair,customer643@example.com,Small Business,2022-05-13,9
+644,Reyansh Mehta,customer644@example.com,Corporate,2021-12-14,3
+645,Ananya Patel,customer645@example.com,Corporate,2023-10-07,3
+646,Aditya Gupta,customer646@example.com,Corporate,2022-07-20,7
+647,Diya Iyer,customer647@example.com,Consumer,2023-01-10,5
+648,Ishaan Nair,customer648@example.com,Small Business,2023-10-13,4
+649,Aarohi Verma,customer649@example.com,Consumer,2022-09-16,1
+650,Myra Kumar,customer650@example.com,Small Business,2023-02-18,6
+651,Aarohi Kumar,customer651@example.com,Corporate,2025-07-29,3
+652,Diya Kumar,customer652@example.com,Small Business,2024-11-24,4
+653,Riya Kumar,customer653@example.com,Consumer,2023-03-27,6
+654,Diya Nair,customer654@example.com,Small Business,2024-07-20,8
+655,Sara Shah,customer655@example.com,Consumer,2022-10-30,7
+656,Ananya Malhotra,customer656@example.com,Corporate,2023-01-18,2
+657,Sara Singh,customer657@example.com,Small Business,2024-01-23,3
+658,Advait Sharma,customer658@example.com,Small Business,2023-08-04,4
+659,Aarohi Shah,customer659@example.com,Corporate,2024-11-19,2
+660,Ira Mehta,customer660@example.com,Corporate,2021-10-13,5
+661,Ishaan Patel,customer661@example.com,Small Business,2021-11-12,7
+662,Myra Verma,customer662@example.com,Corporate,2024-05-09,8
+663,Sara Reddy,customer663@example.com,Small Business,2023-11-04,7
+664,Advait Sharma,customer664@example.com,Corporate,2024-12-07,9
+665,Meera Mehta,customer665@example.com,Consumer,2021-08-12,4
+666,Saanvi Gupta,customer666@example.com,Small Business,2024-06-08,1
+667,Sara Mehta,customer667@example.com,Small Business,2024-08-17,7
+668,Aadhya Shah,customer668@example.com,Corporate,2021-08-05,1
+669,Vihaan Patel,customer669@example.com,Consumer,2023-11-12,9
+670,Advait Das,customer670@example.com,Small Business,2024-03-24,4
+671,Aarohi Kumar,customer671@example.com,Corporate,2023-08-07,9
+672,Arjun Kumar,customer672@example.com,Consumer,2023-09-16,2
+673,Diya Reddy,customer673@example.com,Consumer,2021-08-26,3
+674,Saanvi Patel,customer674@example.com,Corporate,2023-07-22,4
+675,Kabir Iyer,customer675@example.com,Corporate,2023-09-03,2
+676,Aarohi Nair,customer676@example.com,Small Business,2023-07-16,6
+677,Aditya Patel,customer677@example.com,Consumer,2025-07-18,2
+678,Aarav Malhotra,customer678@example.com,Corporate,2024-08-20,2
+679,Reyansh Rao,customer679@example.com,Small Business,2022-05-15,9
+680,Reyansh Jain,customer680@example.com,Consumer,2022-11-09,9
+681,Ira Iyer,customer681@example.com,Consumer,2025-06-22,7
+682,Reyansh Gupta,customer682@example.com,Small Business,2024-09-08,7
+683,Myra Sharma,customer683@example.com,Small Business,2024-06-11,4
+684,Aarohi Das,customer684@example.com,Corporate,2023-03-08,1
+685,Krishna Singh,customer685@example.com,Corporate,2025-03-21,2
+686,Sara Verma,customer686@example.com,Small Business,2022-01-18,6
+687,Aadhya Singh,customer687@example.com,Corporate,2021-08-22,5
+688,Riya Jain,customer688@example.com,Small Business,2022-10-04,7
+689,Meera Reddy,customer689@example.com,Small Business,2021-08-22,6
+690,Saanvi Malhotra,customer690@example.com,Corporate,2024-06-18,3
+691,Diya Rao,customer691@example.com,Small Business,2024-04-23,2
+692,Arjun Kumar,customer692@example.com,Consumer,2022-05-04,5
+693,Vihaan Gupta,customer693@example.com,Corporate,2024-11-21,3
+694,Kabir Reddy,customer694@example.com,Corporate,2024-05-06,3
+695,Sara Reddy,customer695@example.com,Corporate,2022-01-16,8
+696,Advait Nair,customer696@example.com,Small Business,2021-12-21,9
+697,Reyansh Iyer,customer697@example.com,Corporate,2021-10-15,3
+698,Aadhya Malhotra,customer698@example.com,Corporate,2024-06-22,1
+699,Saanvi Sharma,customer699@example.com,Corporate,2021-10-07,4
+700,Myra Jain,customer700@example.com,Small Business,2024-08-30,8
+701,Ira Mehta,customer701@example.com,Corporate,2023-05-02,8
+702,Riya Gupta,customer702@example.com,Consumer,2024-03-03,1
+703,Ishaan Patel,customer703@example.com,Consumer,2022-07-17,4
+704,Advait Patel,customer704@example.com,Consumer,2025-05-18,8
+705,Sara Nair,customer705@example.com,Corporate,2024-01-31,9
+706,Vihaan Das,customer706@example.com,Consumer,2022-07-03,9
+707,Saanvi Jain,customer707@example.com,Consumer,2025-04-06,8
+708,Advait Singh,customer708@example.com,Corporate,2021-07-29,4
+709,Diya Malhotra,customer709@example.com,Consumer,2023-07-11,5
+710,Saanvi Malhotra,customer710@example.com,Consumer,2023-06-19,2
+711,Ishaan Singh,customer711@example.com,Small Business,2024-04-19,6
+712,Meera Mehta,customer712@example.com,Corporate,2021-12-06,3
+713,Krishna Malhotra,customer713@example.com,Consumer,2025-07-08,1
+714,Sara Kumar,customer714@example.com,Small Business,2022-07-30,9
+715,Reyansh Kumar,customer715@example.com,Small Business,2022-08-23,5
+716,Sara Patel,customer716@example.com,Small Business,2024-10-23,2
+717,Arjun Shah,customer717@example.com,Corporate,2021-05-02,5
+718,Arjun Nair,customer718@example.com,Consumer,2022-05-27,3
+719,Aadhya Malhotra,customer719@example.com,Consumer,2025-04-09,7
+720,Riya Gupta,customer720@example.com,Small Business,2024-07-19,5
+721,Ira Reddy,customer721@example.com,Corporate,2021-06-04,2
+722,Myra Jain,customer722@example.com,Small Business,2022-07-24,6
+723,Aarohi Iyer,customer723@example.com,Corporate,2024-04-06,1
+724,Aditya Nair,customer724@example.com,Corporate,2024-07-24,6
+725,Aditya Shah,customer725@example.com,Small Business,2023-03-26,4
+726,Ira Malhotra,customer726@example.com,Consumer,2023-10-11,5
+727,Aadhya Malhotra,customer727@example.com,Corporate,2022-11-23,9
+728,Sara Gupta,customer728@example.com,Small Business,2023-09-21,6
+729,Vivaan Sharma,customer729@example.com,Consumer,2024-07-06,8
+730,Aarav Verma,customer730@example.com,Consumer,2023-06-23,8
+731,Aarav Reddy,customer731@example.com,Consumer,2024-11-11,3
+732,Diya Gupta,customer732@example.com,Corporate,2021-07-11,6
+733,Ananya Verma,customer733@example.com,Corporate,2024-09-22,3
+734,Vivaan Reddy,customer734@example.com,Small Business,2022-09-18,4
+735,Ira Mehta,customer735@example.com,Consumer,2024-12-12,2
+736,Aarav Singh,customer736@example.com,Corporate,2021-06-09,3
+737,Sara Singh,customer737@example.com,Small Business,2024-10-24,8
+738,Aarav Sharma,customer738@example.com,Small Business,2022-12-05,2
+739,Ira Nair,customer739@example.com,Consumer,2023-09-06,2
+740,Ishaan Reddy,customer740@example.com,Consumer,2025-02-05,2
+741,Vihaan Kumar,customer741@example.com,Corporate,2022-09-05,3
+742,Myra Shah,customer742@example.com,Consumer,2024-08-06,3
+743,Aditya Jain,customer743@example.com,Small Business,2021-01-18,3
+744,Aarohi Kumar,customer744@example.com,Small Business,2022-03-13,3
+745,Ira Das,customer745@example.com,Small Business,2023-06-26,4
+746,Aditya Rao,customer746@example.com,Consumer,2021-10-14,2
+747,Sara Nair,customer747@example.com,Corporate,2022-12-21,7
+748,Aadhya Shah,customer748@example.com,Consumer,2022-05-23,5
+749,Aditya Singh,customer749@example.com,Small Business,2024-05-15,5
+750,Aarav Malhotra,customer750@example.com,Small Business,2022-09-10,4
+751,Kabir Das,customer751@example.com,Small Business,2022-01-22,7
+752,Diya Mehta,customer752@example.com,Consumer,2025-05-25,4
+753,Riya Reddy,customer753@example.com,Consumer,2022-05-09,8
+754,Meera Verma,customer754@example.com,Small Business,2021-01-25,6
+755,Aadhya Gupta,customer755@example.com,Corporate,2024-03-10,7
+756,Saanvi Jain,customer756@example.com,Small Business,2021-12-20,8
+757,Aditya Sharma,customer757@example.com,Small Business,2021-05-19,1
+758,Ananya Singh,customer758@example.com,Consumer,2021-05-04,7
+759,Kabir Patel,customer759@example.com,Small Business,2024-12-30,9
+760,Ira Reddy,customer760@example.com,Small Business,2023-04-04,2
+761,Advait Jain,customer761@example.com,Small Business,2021-11-09,5
+762,Aditya Patel,customer762@example.com,Consumer,2023-11-14,4
+763,Arjun Jain,customer763@example.com,Corporate,2023-03-12,2
+764,Diya Nair,customer764@example.com,Corporate,2025-02-03,4
+765,Vivaan Singh,customer765@example.com,Consumer,2023-06-09,2
+766,Aarohi Das,customer766@example.com,Small Business,2021-04-23,5
+767,Reyansh Verma,customer767@example.com,Consumer,2024-12-20,3
+768,Aarav Gupta,customer768@example.com,Corporate,2022-12-12,9
+769,Kabir Shah,customer769@example.com,Small Business,2022-06-15,3
+770,Saanvi Gupta,customer770@example.com,Small Business,2025-05-19,5
+771,Vihaan Shah,customer771@example.com,Consumer,2022-11-18,7
+772,Ananya Jain,customer772@example.com,Consumer,2022-06-23,2
+773,Riya Iyer,customer773@example.com,Small Business,2023-01-08,1
+774,Riya Malhotra,customer774@example.com,Small Business,2021-12-08,6
+775,Reyansh Patel,customer775@example.com,Consumer,2024-03-21,2
+776,Ishaan Nair,customer776@example.com,Small Business,2021-01-06,1
+777,Aarav Singh,customer777@example.com,Consumer,2023-08-25,6
+778,Myra Rao,customer778@example.com,Consumer,2022-01-02,1
+779,Advait Shah,customer779@example.com,Small Business,2025-02-25,7
+780,Ishaan Kumar,customer780@example.com,Consumer,2023-05-03,6
+781,Ananya Malhotra,customer781@example.com,Consumer,2024-03-16,6
+782,Vihaan Jain,customer782@example.com,Small Business,2021-04-18,3
+783,Ishaan Shah,customer783@example.com,Small Business,2021-04-05,7
+784,Aditya Rao,customer784@example.com,Corporate,2022-08-02,5
+785,Aadhya Verma,customer785@example.com,Small Business,2023-07-25,1
+786,Saanvi Singh,customer786@example.com,Corporate,2024-02-29,5
+787,Meera Singh,customer787@example.com,Corporate,2023-01-25,8
+788,Krishna Nair,customer788@example.com,Small Business,2025-04-07,4
+789,Arjun Sharma,customer789@example.com,Corporate,2021-02-18,4
+790,Advait Kumar,customer790@example.com,Small Business,2024-11-21,1
+791,Aadhya Sharma,customer791@example.com,Small Business,2023-02-10,5
+792,Vihaan Singh,customer792@example.com,Small Business,2022-05-03,7
+793,Riya Sharma,customer793@example.com,Consumer,2024-12-28,5
+794,Aditya Sharma,customer794@example.com,Consumer,2023-12-01,7
+795,Saanvi Iyer,customer795@example.com,Small Business,2021-06-23,2
+796,Kabir Gupta,customer796@example.com,Small Business,2025-08-07,7
+797,Aditya Das,customer797@example.com,Small Business,2021-05-08,7
+798,Arjun Singh,customer798@example.com,Corporate,2022-06-19,6
+799,Myra Nair,customer799@example.com,Small Business,2022-10-31,6
+800,Aarohi Patel,customer800@example.com,Consumer,2021-06-02,4
+801,Arjun Shah,customer801@example.com,Small Business,2021-08-12,3
+802,Vihaan Gupta,customer802@example.com,Corporate,2023-08-13,6
+803,Ira Verma,customer803@example.com,Small Business,2023-01-04,4
+804,Aarohi Patel,customer804@example.com,Corporate,2022-06-27,2
+805,Aditya Gupta,customer805@example.com,Small Business,2022-09-16,1
+806,Krishna Malhotra,customer806@example.com,Corporate,2021-10-31,2
+807,Ishaan Kumar,customer807@example.com,Corporate,2023-11-18,1
+808,Diya Patel,customer808@example.com,Consumer,2021-03-05,7
+809,Aarohi Jain,customer809@example.com,Small Business,2024-02-01,4
+810,Vihaan Iyer,customer810@example.com,Consumer,2025-07-05,3
+811,Vihaan Sharma,customer811@example.com,Consumer,2025-05-19,4
+812,Arjun Singh,customer812@example.com,Corporate,2023-02-02,2
+813,Sara Das,customer813@example.com,Corporate,2025-07-23,2
+814,Aarav Verma,customer814@example.com,Consumer,2024-08-15,8
+815,Arjun Verma,customer815@example.com,Corporate,2021-09-08,1
+816,Aarohi Sharma,customer816@example.com,Consumer,2024-03-21,7
+817,Myra Iyer,customer817@example.com,Consumer,2023-02-23,7
+818,Reyansh Kumar,customer818@example.com,Consumer,2022-01-19,5
+819,Ananya Iyer,customer819@example.com,Consumer,2021-03-12,4
+820,Diya Iyer,customer820@example.com,Corporate,2024-02-02,8
+821,Vivaan Verma,customer821@example.com,Corporate,2023-02-24,3
+822,Ira Singh,customer822@example.com,Small Business,2025-06-21,9
+823,Ishaan Mehta,customer823@example.com,Small Business,2025-06-16,1
+824,Myra Shah,customer824@example.com,Small Business,2023-01-06,8
+825,Advait Shah,customer825@example.com,Corporate,2022-12-06,9
+826,Aadhya Reddy,customer826@example.com,Corporate,2022-01-04,1
+827,Aadhya Das,customer827@example.com,Consumer,2021-03-02,5
+828,Vivaan Shah,customer828@example.com,Corporate,2023-12-21,6
+829,Sara Singh,customer829@example.com,Consumer,2021-07-25,4
+830,Ishaan Patel,customer830@example.com,Small Business,2025-07-30,1
+831,Ishaan Das,customer831@example.com,Corporate,2022-12-28,3
+832,Reyansh Singh,customer832@example.com,Small Business,2022-10-14,6
+833,Sara Sharma,customer833@example.com,Small Business,2024-12-05,6
+834,Sara Das,customer834@example.com,Consumer,2024-02-28,4
+835,Riya Jain,customer835@example.com,Corporate,2021-12-26,8
+836,Vivaan Verma,customer836@example.com,Consumer,2022-04-22,4
+837,Aarav Jain,customer837@example.com,Corporate,2021-01-02,6
+838,Meera Singh,customer838@example.com,Consumer,2022-11-29,3
+839,Aadhya Sharma,customer839@example.com,Consumer,2021-10-30,3
+840,Vihaan Malhotra,customer840@example.com,Small Business,2023-01-18,2
+841,Saanvi Nair,customer841@example.com,Small Business,2023-03-22,2
+842,Aadhya Patel,customer842@example.com,Corporate,2021-10-07,3
+843,Ira Shah,customer843@example.com,Small Business,2023-09-25,6
+844,Reyansh Nair,customer844@example.com,Small Business,2024-11-21,6
+845,Ishaan Mehta,customer845@example.com,Small Business,2025-07-27,3
+846,Myra Patel,customer846@example.com,Small Business,2024-11-11,5
+847,Arjun Gupta,customer847@example.com,Small Business,2021-01-04,7
+848,Sara Sharma,customer848@example.com,Consumer,2024-05-18,6
+849,Meera Singh,customer849@example.com,Small Business,2024-03-04,2
+850,Riya Gupta,customer850@example.com,Corporate,2025-03-07,2
+851,Ishaan Kumar,customer851@example.com,Corporate,2021-12-10,2
+852,Aadhya Iyer,customer852@example.com,Consumer,2022-06-28,4
+853,Ishaan Nair,customer853@example.com,Consumer,2022-12-19,5
+854,Vihaan Nair,customer854@example.com,Consumer,2021-04-09,7
+855,Aarohi Nair,customer855@example.com,Corporate,2021-12-07,7
+856,Riya Rao,customer856@example.com,Corporate,2022-12-21,9
+857,Myra Verma,customer857@example.com,Corporate,2025-06-04,4
+858,Reyansh Iyer,customer858@example.com,Consumer,2025-06-25,1
+859,Diya Sharma,customer859@example.com,Corporate,2022-06-19,2
+860,Aditya Kumar,customer860@example.com,Consumer,2023-02-08,3
+861,Aditya Jain,customer861@example.com,Consumer,2022-11-24,8
+862,Aarav Reddy,customer862@example.com,Small Business,2021-12-04,7
+863,Reyansh Sharma,customer863@example.com,Consumer,2022-11-10,4
+864,Krishna Reddy,customer864@example.com,Small Business,2024-02-09,9
+865,Ananya Mehta,customer865@example.com,Corporate,2022-09-02,4
+866,Vihaan Sharma,customer866@example.com,Corporate,2024-03-16,9
+867,Riya Gupta,customer867@example.com,Consumer,2023-01-09,1
+868,Ira Verma,customer868@example.com,Corporate,2025-08-15,8
+869,Krishna Verma,customer869@example.com,Consumer,2022-02-28,3
+870,Diya Verma,customer870@example.com,Corporate,2021-08-25,5
+871,Myra Iyer,customer871@example.com,Corporate,2024-09-15,5
+872,Aditya Mehta,customer872@example.com,Small Business,2023-03-05,3
+873,Saanvi Rao,customer873@example.com,Corporate,2023-01-27,3
+874,Aarohi Sharma,customer874@example.com,Corporate,2023-06-20,8
+875,Ananya Singh,customer875@example.com,Corporate,2024-03-01,1
+876,Arjun Shah,customer876@example.com,Small Business,2024-09-28,2
+877,Aditya Mehta,customer877@example.com,Corporate,2025-07-14,9
+878,Ira Shah,customer878@example.com,Small Business,2022-04-11,9
+879,Vivaan Malhotra,customer879@example.com,Corporate,2025-08-04,9
+880,Ira Jain,customer880@example.com,Small Business,2023-08-31,4
+881,Riya Patel,customer881@example.com,Consumer,2023-03-20,1
+882,Kabir Das,customer882@example.com,Small Business,2025-06-28,3
+883,Vihaan Shah,customer883@example.com,Corporate,2021-12-21,3
+884,Krishna Shah,customer884@example.com,Consumer,2021-09-16,1
+885,Ira Verma,customer885@example.com,Small Business,2023-06-11,4
+886,Arjun Malhotra,customer886@example.com,Small Business,2022-06-13,6
+887,Aditya Verma,customer887@example.com,Corporate,2024-02-14,7
+888,Advait Kumar,customer888@example.com,Corporate,2023-12-01,8
+889,Aarav Shah,customer889@example.com,Small Business,2024-06-30,9
+890,Ira Verma,customer890@example.com,Corporate,2021-11-03,3
+891,Sara Das,customer891@example.com,Small Business,2025-04-03,2
+892,Vihaan Das,customer892@example.com,Consumer,2025-05-29,5
+893,Advait Rao,customer893@example.com,Corporate,2023-04-22,5
+894,Myra Mehta,customer894@example.com,Corporate,2024-03-17,8
+895,Vivaan Gupta,customer895@example.com,Corporate,2023-04-06,3
+896,Meera Das,customer896@example.com,Small Business,2024-11-21,7
+897,Vivaan Reddy,customer897@example.com,Corporate,2024-11-15,4
+898,Vivaan Nair,customer898@example.com,Corporate,2022-07-05,6
+899,Aarav Kumar,customer899@example.com,Corporate,2022-09-29,5
+900,Riya Malhotra,customer900@example.com,Small Business,2024-11-03,2
+901,Ishaan Gupta,customer901@example.com,Corporate,2025-03-04,8
+902,Aadhya Patel,customer902@example.com,Small Business,2023-05-04,2
+903,Krishna Iyer,customer903@example.com,Consumer,2025-08-15,7
+904,Riya Shah,customer904@example.com,Small Business,2023-02-05,1
+905,Kabir Shah,customer905@example.com,Consumer,2021-05-15,5
+906,Kabir Reddy,customer906@example.com,Consumer,2025-05-18,9
+907,Sara Sharma,customer907@example.com,Consumer,2022-01-30,4
+908,Vivaan Singh,customer908@example.com,Consumer,2023-07-24,1
+909,Saanvi Nair,customer909@example.com,Consumer,2022-07-16,6
+910,Aarohi Jain,customer910@example.com,Corporate,2024-07-25,2
+911,Aarav Singh,customer911@example.com,Corporate,2023-09-29,8
+912,Reyansh Malhotra,customer912@example.com,Corporate,2024-04-16,9
+913,Saanvi Kumar,customer913@example.com,Consumer,2022-06-14,2
+914,Diya Sharma,customer914@example.com,Corporate,2021-04-12,3
+915,Sara Shah,customer915@example.com,Consumer,2022-03-30,4
+916,Krishna Patel,customer916@example.com,Small Business,2023-04-19,9
+917,Aarav Malhotra,customer917@example.com,Small Business,2021-01-19,8
+918,Arjun Mehta,customer918@example.com,Consumer,2024-05-16,1
+919,Ishaan Patel,customer919@example.com,Small Business,2025-07-07,5
+920,Ananya Reddy,customer920@example.com,Corporate,2022-12-16,8
+921,Ananya Singh,customer921@example.com,Corporate,2022-09-11,9
+922,Meera Reddy,customer922@example.com,Small Business,2021-07-29,1
+923,Kabir Mehta,customer923@example.com,Corporate,2024-02-24,5
+924,Diya Mehta,customer924@example.com,Consumer,2023-09-14,2
+925,Aadhya Patel,customer925@example.com,Small Business,2022-10-28,5
+926,Ananya Mehta,customer926@example.com,Small Business,2024-08-27,5
+927,Krishna Gupta,customer927@example.com,Small Business,2025-04-17,4
+928,Vivaan Shah,customer928@example.com,Small Business,2023-04-08,6
+929,Arjun Nair,customer929@example.com,Consumer,2024-09-04,8
+930,Diya Patel,customer930@example.com,Corporate,2023-04-09,7
+931,Vivaan Das,customer931@example.com,Small Business,2024-03-17,4
+932,Aadhya Nair,customer932@example.com,Small Business,2022-04-01,9
+933,Riya Rao,customer933@example.com,Small Business,2023-01-05,9
+934,Diya Malhotra,customer934@example.com,Consumer,2024-09-08,9
+935,Reyansh Patel,customer935@example.com,Consumer,2023-08-23,3
+936,Ananya Nair,customer936@example.com,Small Business,2025-04-12,3
+937,Aadhya Mehta,customer937@example.com,Consumer,2022-04-01,6
+938,Ishaan Nair,customer938@example.com,Corporate,2023-05-12,6
+939,Saanvi Patel,customer939@example.com,Small Business,2022-08-26,8
+940,Vihaan Iyer,customer940@example.com,Consumer,2024-07-23,2
+941,Riya Rao,customer941@example.com,Consumer,2023-10-22,2
+942,Myra Jain,customer942@example.com,Corporate,2023-04-27,1
+943,Arjun Gupta,customer943@example.com,Consumer,2022-12-03,7
+944,Sara Rao,customer944@example.com,Corporate,2021-10-21,6
+945,Reyansh Shah,customer945@example.com,Consumer,2023-09-26,6
+946,Reyansh Kumar,customer946@example.com,Small Business,2021-04-29,1
+947,Aarohi Patel,customer947@example.com,Consumer,2025-04-08,3
+948,Sara Shah,customer948@example.com,Consumer,2023-09-30,2
+949,Arjun Das,customer949@example.com,Corporate,2024-07-21,7
+950,Myra Reddy,customer950@example.com,Corporate,2023-02-25,1
+951,Vivaan Jain,customer951@example.com,Consumer,2025-02-05,6
+952,Aarav Rao,customer952@example.com,Corporate,2025-03-31,9
+953,Krishna Sharma,customer953@example.com,Small Business,2021-01-09,4
+954,Ishaan Nair,customer954@example.com,Corporate,2022-10-02,3
+955,Vihaan Reddy,customer955@example.com,Small Business,2024-04-20,5
+956,Reyansh Verma,customer956@example.com,Consumer,2022-09-03,5
+957,Aarohi Nair,customer957@example.com,Small Business,2024-05-06,9
+958,Aadhya Reddy,customer958@example.com,Small Business,2021-10-02,6
+959,Riya Kumar,customer959@example.com,Consumer,2021-12-04,7
+960,Aarav Singh,customer960@example.com,Consumer,2025-01-29,3
+961,Krishna Nair,customer961@example.com,Consumer,2024-04-22,9
+962,Reyansh Verma,customer962@example.com,Corporate,2024-12-27,1
+963,Myra Rao,customer963@example.com,Small Business,2022-06-08,9
+964,Meera Sharma,customer964@example.com,Small Business,2021-04-09,2
+965,Aarav Sharma,customer965@example.com,Small Business,2021-08-26,7
+966,Aarohi Reddy,customer966@example.com,Consumer,2024-01-26,5
+967,Riya Nair,customer967@example.com,Consumer,2022-02-25,1
+968,Diya Reddy,customer968@example.com,Small Business,2021-07-26,9
+969,Ananya Das,customer969@example.com,Small Business,2024-12-06,3
+970,Ira Malhotra,customer970@example.com,Consumer,2023-11-14,2
+971,Diya Verma,customer971@example.com,Consumer,2023-10-17,4
+972,Meera Singh,customer972@example.com,Corporate,2023-12-08,4
+973,Saanvi Nair,customer973@example.com,Corporate,2022-08-28,3
+974,Vivaan Jain,customer974@example.com,Corporate,2022-03-02,8
+975,Aadhya Singh,customer975@example.com,Consumer,2021-01-27,2
+976,Vihaan Malhotra,customer976@example.com,Small Business,2024-10-02,8
+977,Arjun Verma,customer977@example.com,Small Business,2021-06-03,2
+978,Ananya Mehta,customer978@example.com,Consumer,2023-07-25,5
+979,Ananya Iyer,customer979@example.com,Consumer,2021-07-24,3
+980,Vivaan Malhotra,customer980@example.com,Corporate,2023-01-08,6
+981,Ira Nair,customer981@example.com,Consumer,2021-07-14,1
+982,Aarav Malhotra,customer982@example.com,Consumer,2024-09-20,3
+983,Aadhya Kumar,customer983@example.com,Corporate,2024-06-27,5
+984,Aditya Kumar,customer984@example.com,Corporate,2022-01-10,2
+985,Myra Reddy,customer985@example.com,Corporate,2022-07-11,7
+986,Riya Shah,customer986@example.com,Corporate,2024-08-21,3
+987,Vihaan Gupta,customer987@example.com,Small Business,2025-01-27,1
+988,Reyansh Verma,customer988@example.com,Corporate,2024-04-24,8
+989,Sara Mehta,customer989@example.com,Corporate,2022-01-07,7
+990,Saanvi Das,customer990@example.com,Consumer,2024-11-02,3
+991,Riya Rao,customer991@example.com,Corporate,2021-08-20,7
+992,Aarohi Sharma,customer992@example.com,Consumer,2022-06-20,6
+993,Aarav Nair,customer993@example.com,Small Business,2023-12-11,4
+994,Aadhya Jain,customer994@example.com,Small Business,2024-11-10,2
+995,Ira Mehta,customer995@example.com,Small Business,2022-05-25,8
+996,Saanvi Mehta,customer996@example.com,Small Business,2024-08-06,7
+997,Arjun Malhotra,customer997@example.com,Small Business,2024-06-09,1
+998,Aarav Mehta,customer998@example.com,Consumer,2023-11-02,8
+999,Riya Malhotra,customer999@example.com,Consumer,2021-06-03,8
+1000,Aadhya Singh,customer1000@example.com,Corporate,2022-07-24,1
